@@ -22,6 +22,8 @@ import javax.annotation.Generated;
 @Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2025-11-08T19:50:26.691663500+05:30[Asia/Calcutta]", comments = "Generator version: 7.15.0")
 public class GreetingResponse {
 
+
+
   private @Nullable String message;
 
   public GreetingResponse message(@Nullable String message) {
